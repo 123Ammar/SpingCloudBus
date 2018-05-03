@@ -1,0 +1,7 @@
+spring:
+  rabbitmq:
+    host: 100.126.52.16
+    port: 5672
+    username: faedc2ed-956c-4857-8d54-e313c92845dd
+    password: ohnag53b0or7ud4qu6auajnb0n
+    virtual-host: a4e4cec9-9f48-4d3b-889a-f92db17dd02b

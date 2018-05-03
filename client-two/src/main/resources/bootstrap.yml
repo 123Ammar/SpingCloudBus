@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: config-client
+   
+security:
+  basic:
+    enabled: false
+management:
+  security:
+    enabled: false
+
+   
